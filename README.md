@@ -10,7 +10,7 @@ A program that uses spaCy token recognition on garden path sentences.
 ## Installation
 The code can be copied into any code editor.
 
-The user would need the install the requirements.txt file and use the gitignore file included for optimum performance.
+The user would need to install the requirements.txt file and use the gitignore file included for optimum performance.
 There is also a dockerfile included for dokcerisation of the program.
 
 ## Credits
